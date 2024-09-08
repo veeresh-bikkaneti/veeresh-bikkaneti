@@ -1,5 +1,3 @@
-<img align="left" width="200" height="200" src="https://github.com/user-attachments/assets/9824c100-1f1c-421a-8d05-017928cefdee">  
-
 <h1 align="center">Hello, I'm Veeresh Bikkaneti 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+SDET+%7C+QA+Architect;Certified+Scrum+Master;15%2B+Years+of+Experience&center=true&width=380&height=45">
