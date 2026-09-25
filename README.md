@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**veeresh-bikkaneti/veeresh-bikkaneti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Visit My Website
 
-Here are some ideas to get you started:
+### **[➜ veeresh-bikkaneti.github.io](https://veeresh-bikkaneti.github.io/)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- 🛠️ **20+ years** in QA, Testing, and Product Management
+- - 💼 Runs **RUN Technologies Consulting LLC**
+  - - 📍 Based in **Lincoln, Nebraska**
+    - - 🎯 Specializes in **Government IT Contract Roles**
+      - - 🏆 **Certified ScrumMaster** | **QA Architect** | **Business Analyst**
+       
+        - ## Expertise
+       
+        - - QA Strategy & Architecture
+          - - Test Automation (Selenium, Playwright)
+            - - Agile/Scrum Leadership
+              - - Product Management & Business Analysis
+                - - Government contracting & compliance
+                 
+                  - ## Let's Connect
+                 
+                  - - 💬 Available for consulting & contract work
+                    - - 🤝 Open to collaboration on government IT projects
+                      - - 📧 Reach out via [my website](https://veeresh-bikkaneti.github.io/)
+                       
+                        - ---
+
+                        *Built with ❤️ for quality and excellence*
