@@ -1,12 +1,23 @@
-<h1>Veeresh Bikkaneti</h1>
+<p align="center">
+  <img src="profile/banner.png" width="100%" alt="Veeresh Bikkaneti. RUN Technologies Consulting LLC. Lincoln, Nebraska.">
+</p>
 
-**RUN Technologies Consulting LLC** · Lincoln, Nebraska
+<table>
+<tr>
+<td width="210" valign="middle">
+<img src="profile/astronaut.gif" width="190" alt="Astronaut from page-mascot. The loop looks around, blinks, then heart, sparkle, and wink.">
+</td>
+<td valign="middle">
 
 I help teams build the right thing and build it right.
 
 Business Analyst, Product Owner, Certified ScrumMaster, and QA Architect. Twenty years in enterprise delivery, mostly government IT contracts. Requirements, the backlog, and the test strategy that checks the thing shipped is the thing that was asked for.
 
 [**Site**](https://veeresh-bikkaneti.github.io/) · [LinkedIn](https://www.linkedin.com/in/sdetbaveer/) · [Blog](https://veeresh-bikkaneti.github.io/techtalkwith-veeresh/) · [Medium](https://medium.com/@veeresh.esh)
+
+</td>
+</tr>
+</table>
 
 ## Live on GitHub Pages
 
@@ -37,4 +48,4 @@ Business Analyst, Product Owner, Certified ScrumMaster, and QA Architect. Twenty
 
 [All public repositories](https://github.com/veeresh-bikkaneti?tab=repositories)
 
-Open to consulting and government IT work.
+Open to consulting and government IT work. The astronaut is the [page-mascot](https://github.com/nilbuild/page-mascot) sprite. A profile README cannot follow the pointer, so this one loops instead.
